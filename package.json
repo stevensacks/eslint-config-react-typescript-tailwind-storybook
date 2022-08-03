@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevensacks/eslint-config.git"
+    "url": "git@github.com:stevensacks/eslint-config-react-typescript-tailwind-storybook.git"
   },
   "keywords": [
     "eslint",
