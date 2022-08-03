@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "eslint-config-react-typescript-tailwind-storybook",
   "version": "0.0.1",
   "description": "My preferred eslint config",
   "author": "Steven Sacks <stevensacks@gmail.com>",
